@@ -5,3 +5,4 @@ Like ....
 -Joke Teller
 -Picture In Picture
 -Quote Generator
+-Light and Dark Mode
